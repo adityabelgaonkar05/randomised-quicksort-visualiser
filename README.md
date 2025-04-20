@@ -63,10 +63,8 @@ quicksort_visualizer/
 ## Demo
 
 ### Video Demo  
-[Watch the demo video](https://www.youtube.com/watch?v=dY6ranB06Ts)
 
 ### Live Demo  
-[Try it live](https://quicksort-visualizer.vercel.app/)
 
 ## Usage
 
